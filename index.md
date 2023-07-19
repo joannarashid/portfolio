@@ -4,6 +4,7 @@
 
 ### Atmospheric CO2 and Socioeconomic Vulnerability
 <img src="images/co2_cluster_map.png?raw=true"/>
+This project sets out to identify the relationship between CO2 emissions and socioeconomic status with a temporal component. This project includes extensive feature engineering and conplex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 
