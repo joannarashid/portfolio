@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Graduate Coursework Projects 
 
 [Flu Epidemic Simulation](/sample_page)
 <img src="images/flu_sim_thumbnail.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Freelace Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
