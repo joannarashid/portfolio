@@ -1,11 +1,12 @@
-## Portfolio
+## Selected Projects
 
 ---
 
-### Graduate Coursework Projects 
-
-[Flu Epidemic Simulation](/sample_page)
+### Using SIR Models to Simulate an Epidenic: An Agent-Based Modeling Approach
 <img src="images/flu_sim_thumbnail.png?raw=true"/>
+This project uses an agent-based approach to the suseptible-infected-recovered (SIR) epidemic model. This stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
