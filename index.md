@@ -20,7 +20,7 @@ This project uses an agent-based approach to the suseptible-infected-recovered (
 ---
 
 ### Atmospheric CO2 and Socioeconomic Vulnerability
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/co2_cluster_map.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)(#)[![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(#)
 
