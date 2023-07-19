@@ -15,14 +15,14 @@ This project uses an agent-based approach to the suseptible-infected-recovered (
 ### Blissful Borders: A City Recomender that Optimizes User Well-Being
 <img src="images/bb_app_thumbnail.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)(#)[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)(#)[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)(#)
 
 ---
 
 ### Atmospheric CO2 and Socioeconomic Vulnerability
 <img src="images/co2_cluster_map.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)(#)
 
 ---
 
