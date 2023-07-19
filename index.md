@@ -11,12 +11,18 @@ This project uses an agent-based approach to the suseptible-infected-recovered (
 [View code on Colab]([https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing](https://github.com/joannarashid/flu_sim))
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Blissful Borders: A City Recomender that Optimizes User Well-Being
+<img src="images/bb_app_thumbnail.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)(#)
 
 ---
-[Project 3 Title](http://example.com/)
+
+### Atmospheric CO2 and Socioeconomic Vulnerability
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)(#)[![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(#)
 
 ---
 
