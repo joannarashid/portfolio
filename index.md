@@ -37,7 +37,7 @@ This project uses an agent-based approach to the suseptible-infected-recovered (
 ---
 
 
-### Recommender Application: Blissful Borders: A City Recomender that Optimizes User Well-Being
+### Recommender Application: Blissful Borders: A City Recommender that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
 <img src="images/team179poster.png?raw=true"/>
 
