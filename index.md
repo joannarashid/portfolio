@@ -78,7 +78,7 @@ This project uses machine learning to predict employee absences from work based 
   - Digital Marketing
   - Data Analytics for Business
 
-### Bachelor of Science in Economics, 
+### Bachelor of Science in Economics, Cum Laude 
 #### Minor in Applied Computing for Social Sciences
 #### San José State University, 2021
 - Concentration in Econometrics
