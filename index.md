@@ -11,7 +11,7 @@
 ---
 
 ### ML Analysis: Atmospheric CO2 and Socioeconomic Vulnerability
-<iframe src="fdr_map_by_value.html" width="100%" height="500" style="border:1px solid black;">  </iframe>
+<iframe src="fdr_map_by_value.html">  </iframe>
 This project sets out to identify the relationship between CO2 emissions and socioeconomic status with a temporal component. This project includes extensive feature engineering and conplex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 [Code]
