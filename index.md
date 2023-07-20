@@ -39,6 +39,7 @@ This project uses an agent-based approach to the suseptible-infected-recovered (
 
 ### Recommender Application: Blissful Borders: A City Recomender that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
+<img src="images/team179poster.pdf?raw=true">
 <a href="images/team179poster.pdf" target="_blank">PDF.</a>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,10 +57,6 @@ This project uses machine learning to predict employee absences from work based 
 
 [Code](https://github.com/joannarashid/Work_Absenteeism_ML_project/blob/master/ENGR121_absenteeism_project.ipynb)
 
-
----
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
