@@ -1,14 +1,19 @@
-title: Joanna Peck-Rashid
-logo: "/images/headshot_small.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: <p align="center"> Joanna Peck-Rashid </p>
+
+logo: "/images/headshot_small.png?raw=true" 
+
+description:
+  description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/joannarashid/">LinkedIn</a> |
+  <a href="https://github.com/joannarashid">GitHub</a>
+  </p>
   I'm a San Francisco Bay Area based data scientist who is all about scrutinizing data in pursuit of the big picture. I am currently a candidate for a Master of Science in Analytics, an interdisciplinary data science program, at Georgia Institute of Technology. My portfolio shows a selected group of projects with a wide range of processes including feature engineering, machine learning, predictive/statistical modeling, and data visualization.
   <br><br>
   “All models are wrong, some are useful.” -George Box 
   <br><br>
-  <a href="https://www.linkedin.com/in/joannarashid/">LinkedIn Profile</a>
-  <br>
-  <a href="https://github.com/joannarashid/porfolio/images/Joanna Rashid Data Scientist.pdf">Resume </a></p>
-  <br>
+  </p>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
