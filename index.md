@@ -78,13 +78,14 @@ This project uses machine learning to predict employee absences from work based 
   - Digital Marketing
   - Data Analytics for Business
 
-### Bachelor of Science in Economics, minor in Applied Computing for Social Sciences
+### Bachelor of Science in Economics, 
+#### Minor in Applied Computing for Social Sciences
 #### San José State University, 2021
 - Concentration in Econometrics
 - Economics Department Honors 
 - Coursework:
   - Econometrics
-  - Time-series Forecasting
+  - Time-Series Forecasting
   - Object oriented programming Python and R
   - Data Structures and Algorithims
   - Experiment Design
@@ -96,9 +97,9 @@ This project uses machine learning to predict employee absences from work based 
 ### Certificate: Machine Learning for Data Science
 #### Lucas Graduate School of Business, San José State University, 2020
 
-### Certificate: Spatial Data Science: The New Frontier in Analytics
+### Certificate: Spatial Data Science
 #### ESRI, 2020
 
-2023 Joanna Peck-Rashid. Powered by Jekyll and the Minimal Theme.
+Ⓒ 2023 Joanna Peck-Rashid. Powered by Jekyll and the Minimal Theme.
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
