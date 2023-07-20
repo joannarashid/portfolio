@@ -3,6 +3,7 @@ logo: "/images/headshot_small.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a San Francisco Bay Area based data scientist who is all about scrutinizing data in pursuit of the big picture. I'm a candidate for a Master of Analytics, an interdisciplinary data science program, at Georgia Institute of Technology. My portfolio shows a selected group of projects with a wide range of processes including feature engineering, machine learning, predictive/statistical modeling, and data visualization.
   <br><br>
+  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit
   <a href="https://www.linkedin.com/in/joannarashid/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
