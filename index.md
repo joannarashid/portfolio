@@ -39,12 +39,12 @@ Suseptible-infected-recovered (S-I-R), agent-based simulation is used to model a
 
 ### Recommender Application: Blissful Borders: A City Recommender that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
-<img src="images/team179poster.png?raw=true"/>
 An Al-powered application will leverage the user's demographic and social profile to Identify the city that will maximize their well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[Code](https://github.com/ereppond/CSE6242-GroupProject)
+[Code](https://github.com/ereppond/CSE6242-GroupProject/tree/main/BlissfulBorders)
+[Project Poster]("pdf/team179poster.pdf")
 
 ---
 
