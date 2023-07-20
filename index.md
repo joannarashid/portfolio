@@ -3,15 +3,15 @@
 ---
 
 ### Data Visualization: Metrics of Human Well-Being
-<iframe src='https://flo.uri.sh/story/1887426/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:400px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1887426/?utm_source=embed&utm_campaign=story/1887426' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/story/1887426/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:500px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1887426/?utm_source=embed&utm_campaign=story/1887426' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 ---
 
 ### ML Analysis: Atmospheric CO2 and Socioeconomic Vulnerability
-<iframe src="fdr_map_by_value.html">  </iframe>
+<iframe src="images/fdr_map_by_value.html">
 This project sets out to identify the relationship between CO2 emissions and socioeconomic status with a temporal component. This project includes extensive feature engineering and conplex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 [Code]
@@ -59,7 +59,7 @@ This project uses machine learning to predict employee absences from work based 
 
 ---
 
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
