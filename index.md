@@ -2,8 +2,16 @@
 
 ---
 
+### Metrics of Human Well-Being: Data Visualization
+<iframe src='https://flo.uri.sh/story/1887426/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1887426/?utm_source=embed&utm_campaign=story/1887426' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
+---
+
 ### Atmospheric CO2 and Socioeconomic Vulnerability
-<img src="images/cluster_viz.gif?raw=true"/>
+<iframe src="fdr_map_by_value.html" width="100%" height="500" style="border:1px solid black;">  </iframe>
 This project sets out to identify the relationship between CO2 emissions and socioeconomic status with a temporal component. This project includes extensive feature engineering and conplex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 [Code]
@@ -47,13 +55,6 @@ This project uses machine learning to predict employee absences from work based 
 
 [Code](https://github.com/joannarashid/Work_Absenteeism_ML_project/blob/master/ENGR121_absenteeism_project.ipynb)
 
-
----
-
-### Metrics of Human Well-Being: Data Visualization
-<iframe src='https://flo.uri.sh/story/1887426/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1887426/?utm_source=embed&utm_campaign=story/1887426' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 ---
