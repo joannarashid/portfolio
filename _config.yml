@@ -5,11 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   “All models are wrong, some are useful.” -George Box 
   <br>
-  <a href="https://www.linkedin.com/in/joannarashid/">LinkedIn Profile</a>
-  <br>
-  <a href="https://github.com/joannarashid/">Github  Profile </a>
-  <br>
-  <a href="https://github.com/joannarashid/porfolio/images/Joanna Rashid Data Scientist.pdf">Resume </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
