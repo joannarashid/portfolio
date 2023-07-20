@@ -97,5 +97,6 @@ This project uses machine learning to predict employee absences from work based 
 ### Certificate: Spatial Data Science: The New Frontier in Analytics
 #### ESRI, 2020
 
+<center>© 2023 Joanna Peck-Rashid. Powered by Jekyll and the Minimal Theme.</center>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
