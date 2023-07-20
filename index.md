@@ -23,7 +23,7 @@ Suseptible-infected-recovered (S-I-R), agent-based simulation is used to model a
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
-[Code]([https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing](https://github.com/joannarashid/flu_sim](https://github.com/joannarashid/flu_sim/blob/main/scratch_refactoring.ipynb)))
+[Code](https://github.com/joannarashid/flu_sim/blob/main/scratch_refactoring.ipynb)
 
 
 ---
@@ -98,6 +98,6 @@ This project uses machine learning to predict employee absences from work based 
 ### Certificate: Spatial Data Science: The New Frontier in Analytics
 #### ESRI, 2020
 
-<center>© 2023 Joanna Peck-Rashid. Powered by Jekyll and the Minimal Theme.</center>
+2023 Joanna Peck-Rashid. Powered by Jekyll and the Minimal Theme.
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
