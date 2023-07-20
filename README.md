@@ -4,6 +4,8 @@ I'm a San Francisco Bay Area based data scientist who is all about scrutinizing 
 
 “All models are wrong, some are useful.” -George Box
 
+<a href="https://joannarashid.github.io/portfolio/">Portfolio</a>
+
 <a href="https://www.linkedin.com/in/joannarashid/">LinkedIn Profile</a>
 ___
 
