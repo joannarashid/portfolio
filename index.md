@@ -3,7 +3,7 @@
 ---
 
 ### Atmospheric CO2 and Socioeconomic Vulnerability
-<img src="images/co2_cluster_map.png?raw=true"/>
+<img src="images/fdr_map_by_value.html?raw=true"/>
 This project sets out to identify the relationship between CO2 emissions and socioeconomic status with a temporal component. This project includes extensive feature engineering and conplex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 [Code]
