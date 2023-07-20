@@ -45,7 +45,7 @@ An Al-powered application will leverage the user's demographic and social profil
 
 [Code](https://github.com/ereppond/CSE6242-GroupProject/tree/main/BlissfulBorders)
 
-[Project Poster]("pdf/team179poster.pdf")
+<a href="pdf/team179poster.pdf">Project Poster</a>
 
 ---
 
