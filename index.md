@@ -94,7 +94,7 @@ This project uses machine learning to predict employee absences from work based 
 ### Certificate: Machine Learning for Data Science
 #### Lucas Graduate School of Business, San José State University, 2020
 
-### Certificate: Spatial Data Science
+### Certificate: Spatial Data Science: The New Frontier in Analytics
 #### ESRI, 2020
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
