@@ -63,7 +63,7 @@ This project uses machine learning to predict employee absences from work based 
 ---
 
 ### Master of Science in Analytics
-**Georgia Institute of Technology, 2023**
+#### Georgia Institute of Technology, 2023
 - An interdisciplinarily data science and analytics program woth coursework in the Colleges of Computing, Business, and Engineering
 - Languages included: Python, R, SQL, Scala, JavaScript, HTML, CSS
 - Coursework:
@@ -77,7 +77,7 @@ This project uses machine learning to predict employee absences from work based 
   - Data Analytics for Business
 
 ### Bachelor of Science in Economics, minor in Applied Computing for Social Sciences
-**San José State University, 2021**
+#### San José State University, 2021
 - Concentration in Econometrics
 - Economics Department Honors 
 - Relevant Coursework:
@@ -92,10 +92,10 @@ This project uses machine learning to predict employee absences from work based 
   - Other Sciences: Physics, Organic Chemistry, Human Biology, Microbiology
  
 ### Certificate: Machine Learning for Data Science
-**Lucas Graduate School of Business, San José State University, 2020**
+#### Lucas Graduate School of Business, San José State University, 2020
 
 ### Certificate: Spatial Data Science
-**ESRI, 2020**
+#### ESRI, 2020
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
