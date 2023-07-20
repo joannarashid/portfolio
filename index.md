@@ -80,7 +80,7 @@ This project uses machine learning to predict employee absences from work based 
 #### San José State University, 2021
 - Concentration in Econometrics
 - Economics Department Honors 
-- Relevant Coursework:
+- Coursework:
   - Econometrics
   - Time-series Forecasting
   - Object oriented programming Python and R
