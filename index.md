@@ -23,7 +23,7 @@ Suseptible-infected-recovered (S-I-R), agent-based simulation is used to model a
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
-[Code](https://github.com/joannarashid/flu_sim/blob/main/scratch_refactoring.ipynb)
+[Code](https://github.com/joannarashid/flu_sim)
 
 
 ---
