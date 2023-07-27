@@ -60,6 +60,10 @@ This project uses machine learning to predict employee absences from work based 
 
 ---
 
+#### Other projects and code samples can be found on my [Github account](https://github.com/joannarashid/)
+
+---
+
 ## Education
 
 ---
