@@ -5,7 +5,7 @@
 ### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
 <iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
 <iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
-This project uses varous machine learning models to identify relationships between spatial and temporal CO2 emissions and socioeconomic data. The satelitte remotes sensing CO2 data used in this project required extensive feature engineering and complex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
+This project uses various machine learning models to identify relationships between spatial and temporal CO2 emissions and socioeconomic data. The satellite remotes sensing CO2 data used in this project required extensive feature engineering and complex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
 
 [Code](https://github.com/DanDryer/Team-Project-Practicum-6748)
 
@@ -18,7 +18,7 @@ This project uses varous machine learning models to identify relationships betwe
 ### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidenic
 <img src="images/flu_sim1.png?raw=true"/>
 <img src="images/flu_sim2.png?raw=true"/>
-Suseptible-infected-recovered (S-I-R), agent-based simulation is used to model a flu edpidemic. This stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
+Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
@@ -39,7 +39,8 @@ Suseptible-infected-recovered (S-I-R), agent-based simulation is used to model a
 
 ### Recommender Application: Blissful Borders: A City Recommender that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
-This Al-powered application leverages the user's demographic and social profile to identify the city that maximizes well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool. Recomendations are produced by a weighted sum optimizer that uses data from the World Hapiness Index, the Women's Peace and Prosperity Index, the LGBTQ safety index, GDP, and climate, combined with a clasic recomender that improves based on user city reviews. The application is built with Flask.
+This Al-powered application leverages the user's demographic and social profile to identify the city that maximizes well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool. Recommendations are produced by a weighted sum optimizer that uses data from the World Happiness Index, the Women's Peace and Prosperity Index, the LGBTQ safety index, GDP, and climate, combined with a classic recommender that improves based on user city reviews. The application is built with Flask.
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -70,12 +71,12 @@ This project uses machine learning to predict employee absences from work based 
 
 ### Master of Science in Analytics
 #### Georgia Institute of Technology, 2023
-- An interdisciplinarily data science and analytics program with coursework in the Colleges of Computing, Business, and Engineering
+- An interdisciplinary data science and analytics program with coursework in the Colleges of Computing, Business, and Engineering
 - Languages included: Python, R, SQL, Scala, JavaScript, HTML, CSS
 - Coursework:
   - Computing for Data Analysis
   - Data and Visual Analytics
-  - Regression Analyis (Advanced Topics)
+  - Regression Analysis (Advanced Topics)
   - Data Mining and Statistical Learning
   - Simulation and Modeling for Engineering and Science
   - Business Fundamentals for Analytics
@@ -92,9 +93,9 @@ This project uses machine learning to predict employee absences from work based 
   - Econometrics
   - Time-Series Forecasting
   - Object oriented programming Python and R
-  - Data Structures and Algorithims
+  - Data Structures and Algorithms
   - Experiment Design
-  - Saptial Data Analysis (GIS)
+  - Spatial Data Analysis (GIS)
   - Calculus
   - Linear Algebra
   - Other Sciences: Physics, Organic Chemistry, Human Biology, Microbiology
