@@ -1,104 +1,68 @@
-\documentclass[a4paper,11pt]{article}
-
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
+\documentclass{article}
 \usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
-\usepackage{tabularx}
-\usepackage{multicol}
-\input{glyphtounicode}
-
-\usepackage[sfdefault]{inter} 
-\usepackage[T1]{fontenc}
-
-\pagestyle{fancy}
-\fancyhf{} 
-\fancyfoot{}
-\setlength{\footskip}{10pt}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-
-\addtolength{\oddsidemargin}{0.0in}
-\addtolength{\evensidemargin}{0.0in}
-\addtolength{\textwidth}{0.0in}
-\addtolength{\topmargin}{0.2in}
-\addtolength{\textheight}{0.0in}
-
-\urlstyle{same}
-
-\raggedright
-\setlength{\tabcolsep}{0in}
-
-\titleformat{\section}{
-  \it\vspace{3pt}
-}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
-
-\pdfgentounicode=1
-
-\newcommand{\resumeItem}[1]{
-  \item{
-    {#1 \vspace{-4pt}}
-  }
-}
-
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{\small #3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-10pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-3pt}}
 
 \begin{document}
 
-\begin{center}
-    {\huge Joanna Rashid} \\ \vspace{0pt}
-    \begin{multicols}{2}
-    \begin{flushleft}
-    \large{Palo Alto, California} \\
-    \end{flushleft}
-    
-    \begin{flushright}
-    \href{https://joannarashid.github.io/portfolio/}{Portfolio} \\
-    \href{mailto:joannakrashid@gmail.com}{joannakrashid@gmail.com}
-    \end{flushright}
-    \end{multicols}
-\end{center}
+\title{Joanna Rashid's Resume}
+\author{}
+\date{}
+\maketitle
 
-\section{Experience}
-\begin{itemize}[leftmargin=0.15in, label={}]
-    \resumeSubheading
-    {Business Data Analyst}{09/2023 -- Ongoing}
-    {C \& M Surgical Guides, Remote (San Francisco, California)}{}
-    \resumeItemListStart
-        \small\resumeItem{Interpreting and analyzing complex revenue data}
-        \resumeItem{ETL: SQL queries in Delphi/NexusDB, data cleaning, statistical analysis, geocoding (SQL, Python)}
-        \resumeItem{Analytics: Creating revenue analysis dashboard with live database connection (Tableau)}
-        \resumeItem{Machine Learning: Developed location optimization model (Python)}
-        \resumeItem{Application: Delivered interactive location optimization model (Python, Java, HTML)}
-    \resumeItemListEnd
-    
-    % Include other experience in a similar fashion
+\section*{Contact Information}
+Joanna Rashid \\
+joannakrashid@gmail.com \\
+650 224-8468 \\
+\texttt{https://joannarashid.github.io/portfolio/} \\
+Palo Alto, California
+
+\section*{Experience}
+\subsection*{Business Data Analyst}
+C \& M Surgical Guides \\
+09/2023 - Ongoing \\
+Remote (San Francisco, California)
+\begin{itemize}[leftmargin=*]
+    \item Contract role: interpreting and analyzing complex revenue data to drive business strategy
+    \item ETL: SQL queries in Delphi/NexusDB, data cleaning, statistical analysis, and geocoding (SQL, Python)
+    \item Analytics: Create revenue analysis dashboard with live database connection for ongoing stakeholder use (Tableau)
+    \item Machine Learning: Developed location optimization model which optimizes for revenues on client data (Python)
+    \item Application: Delivered interactive location optimization model (Python, Java, HTML)
 \end{itemize}
 
-\section{Education}
-\begin{itemize}[leftmargin=0.15in, label={}]
-    \resumeSubheading
-    {Master of Science of Data Analytics}{09/2023 -- undefined}
-    {Georgia Institute of Technology}{}
-    \resumeSubheading
-    {Bachelor of Science of Economics}{05/2021 -- undefined}
-    {San Jose State University}{}
-\end{itemize}
+\section*{Education}
+\subsection*{Master of Science of Data Analytics}
+Georgia Institute of Technology \\
+09/2023 - undefined \\
+Interdisciplinary data science and analytics program with coursework in the Colleges of Computing, Business, and Engineering
 
-% Include other sections (Certifications, Volunteering, Summary, Skills, Languages, Passions) in a similar format.
+\section*{Certification}
+\subsection*{Machine Learning for Data Science}
+SJSU Graduate School of Business, October 2020
+
+\section*{Volunteering}
+\subsection*{Board Member}
+San Francisco Autism Society \\
+2021 - 2023 \\
+Active board member and volunteer educational video content production
+
+\section*{Summary}
+Data Scientist specializing in technical data analysis and visualization, statistical modeling, and machine learning. Skilled in utilizing programming languages such as Python, SQL, and R. Demonstrated strong problem-solving skills and expertise in transforming raw data into actionable insights.
+
+\section*{Skills}
+\subsection*{Technical Skills}
+Python R SQL AWS
+Google Cloud GitHub Tableau
+PowerBI D3 Databricks JetBrains
+Jupyter Notebook Stata Arena
+Matlab ArcGIS Shiny Spark
+Data Mining Data Science
+Statistical Analysis
+ML Libraries and Algorithims
+Data Visualization Predictive Analytics
+Simulation A/B Testing
+Business Analytics
+\subsection*{Languages}
+% List languages here
+
+
 
 \end{document}
