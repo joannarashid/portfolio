@@ -3,7 +3,7 @@
 ---
 
 ### Revenue Analysis: Medical-Dental Firm Revenue Dashboard
-<iframe src="images/rev_dashboard.png" width="100%" height="500">  </iframe>
+<img src="images/rev_dashboard.png?raw=true"/>">  </iframe>
 This project leverages raw data from a legacy SQL database. The data is visualized in a Tableau dashboard which allows the client to analyze revenue streams and make revenue forcasts with highly detailed interactive dashboards. This dashboard was delivered to the client with connection to their CRM and patient database for continual use.
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/joanna.rashid/viz/Med_Dental_Revenue_Dashboard/RevenueAnalysis)
