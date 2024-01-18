@@ -3,12 +3,13 @@
 ---
 
 ### Revenue Analysis: Medical-Dental Firm Revenue Dashboard
-<iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
-<iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
+<iframe src="images/rev_dashboard.png" width="100%" height="500">  </iframe>
 This project leverages raw data from a legacy SQL database. The data is visualized in a Tableau dashboard which allows the client to analyze revenue streams and make revenue forcasts with highly detailed interactive dashboards. This dashboard was delivered to the client with connection to their CRM and patient database for continual use.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Tableau]
-(https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+[Tableau Dashboard](https://public.tableau.com/app/profile/joanna.rashid/viz/Med_Dental_Revenue_Dashboard/RevenueAnalysis)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
 <iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
