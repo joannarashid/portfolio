@@ -8,8 +8,7 @@ This project leverages raw data from a legacy SQL database. The data is visualiz
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/joanna.rashid/viz/Med_Dental_Revenue_Dashboard/RevenueAnalysis)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
 <iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
