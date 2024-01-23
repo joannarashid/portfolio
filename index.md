@@ -23,7 +23,7 @@ This project uses various machine learning models to identify relationships betw
 ---
 
 
-### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidenic
+### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidemic
 <img src="images/flu_sim1.png?raw=true"/>
 <img src="images/flu_sim2.png?raw=true"/>
 Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
