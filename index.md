@@ -1,7 +1,7 @@
-## Data Science Portfolio
+# Data Science Portfolio
 
 ---
-[*Skip to Education*](##education)
+[*Skip to Education*](#education)
 
 ### Revenue Analysis: Medical Firm Revenue Dashboard
 <img src="images/rev_dashboard.png?raw=true"/>
@@ -74,7 +74,7 @@ This project uses machine learning to predict employee absences from work based 
 
 ---
 
-## Education
+# Education
 
 ---
 
