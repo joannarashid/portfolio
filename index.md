@@ -1,6 +1,7 @@
 ## Data Science Portfolio
 
 ---
+[*Skip to Education*](##education)
 
 ### Revenue Analysis: Medical Firm Revenue Dashboard
 <img src="images/rev_dashboard.png?raw=true"/>
@@ -26,7 +27,7 @@ This project uses various machine learning models to identify relationships betw
 ### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidemic
 <img src="images/flu_sim1.png?raw=true"/>
 <img src="images/flu_sim2.png?raw=true"/>
-Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
+Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This project demonstrates why stochastic models are superior to deterministic models in simulating disease transmission. A stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
@@ -47,7 +48,7 @@ Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model 
 
 ### Recommender Application: Blissful Borders: A City Recommender that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
-This Al-powered application leverages the user's demographic and social profile to identify the city that maximizes well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool. Recommendations are produced by a weighted sum optimizer that uses data from the World Happiness Index, the Women's Peace and Prosperity Index, the LGBTQ safety index, GDP, and climate, combined with a classic recommender that improves based on user city reviews. The application is built with Flask.
+This AI-powered application leverages the user's demographic and social profile to identify the city that maximizes well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool. Recommendations are produced by a weighted sum optimizer that uses data from the World Happiness Index, the Women's Peace and Prosperity Index, the LGBTQ safety index, GDP, and climate, combined with a collaborative filter that improves based on user city reviews. The application is built with Flask.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,7 +61,7 @@ This Al-powered application leverages the user's demographic and social profile 
 
 ### Supervised Machine Learning: Predicting Employee Absences
 <img src="images/work_absence_thumbnail.png?raw=true"/>
-This project uses machine learning to predict employee absences from work based on employee demographics.
+This project uses machine learning to predict employee absences from work based on employee demographics. An interesting finding in this data set is that 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,18 +80,21 @@ This project uses machine learning to predict employee absences from work based 
 
 ### Master of Science in Analytics
 #### Georgia Institute of Technology, 2023
-- An interdisciplinary data science and analytics program with coursework in the Colleges of Computing, Business, and Engineering
-- Languages included: Python, R, SQL, Scala, JavaScript, HTML, CSS
-- Coursework:
-  - Computing for Data Analysis
-  - Data and Visual Analytics
-  - Regression Analysis (Advanced Topics)
-  - Data Mining and Statistical Learning
-  - Simulation and Modeling for Engineering and Science
+- An interdisciplinary data science and analytics program with coursework in the Colleges of Computing, Business, and Systems Engineering
+- Syntax: Python, R, SQL, Scala, JavaScript, HTML, CSS
+- Tech Stack: GitHub, AWS, Azure, Google Cloud, Databricks, Apache (Hive, Pig, Spark), Tableau, Shiny, various IDEs and Notebooks, Streamlit, Dash, Flask, Slack, Microsoft Suite)
+- Coursework included:
+  - Computing for Data Analysis: (object-oriented programing and data structures)
+  - Data and Visual Analytics: (D3, Tableau, many open-source Python libraries)
+  - Statistical Modeling and Machine Learning: (Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors, Neural Networks, K-Means Clustering, Principal Component Analysis, Gradient Boosting Machines, Neural Networks)
+  - Advanced Regression Topics and Statistical Learning: (Multiple Linear Regression, Polynomial Regression, Ridge Regression (L2 Regularization), Lasso Regression (L1 Regularization), Elastic Net Regression, Nonlinear Regression, Generalized Additive Models, Bayesian Regression, Kernel Smoothing, Spline Smoothing, Time Series Regression, Mixed Effects Models, Survival Analysis Regression)
+  - Mathematics: Calculus, Linear Algebra, Inferential and Descriptive Statistics (broadly)
+  - Data Mining
+  - Simulation and Modeling for Engineering and Science (Random Variables and Stochastic Modeling)
   - Business Fundamentals for Analytics
-  - Digital Marketing
-  - Data Analytics for Business
-
+  - Digital Marketing: (A/B Testing, Factorial Design, Mobile, Email, and Social Media Marketing Analytics, SEO Analytics) 
+  - Data Analytics for Business: (KPIs and Forecasting, Business Analytics for Finance, Marketing, Logistics, and Operations)
+  - Emerging Technologies
 
 ### Bachelor of Science in Economics, Cum Laude 
 #### Minor in Applied Computing for Social Sciences
@@ -99,16 +103,18 @@ This project uses machine learning to predict employee absences from work based 
 - Economics Department Honors 
 - Coursework:
   - Econometrics
+  - Cost-Benefit Analysis
   - Time-Series Forecasting
+  - Monetary Theory and Global Economics
   - Object oriented programming Python and R
   - Data Structures and Algorithms
   - Experiment Design
   - Spatial Data Analysis (GIS)
   - Calculus
+  - Statistics
   - Linear Algebra
-  - Other Sciences: Physics, Organic Chemistry, Human Biology, Microbiology
+  - Other Sciences: Physics, Organic Chemistry, Human Biology and Physiology, Microbiology, Climate Science
 
- 
 ### Certificate: Machine Learning for Data Science
 #### Lucas Graduate School of Business, San José State University, 2020
 
