@@ -122,8 +122,7 @@ This project uses machine learning to predict employee absences from work based 
 ### Certificate: Spatial Data Science
 #### ESRI, 2020
 
-<a href="pdf/JoannaRashidResumeMed.pdf">Resume with previous imaging experience.</a>
 
-Ⓒ 2023 Joanna Rashid. Powered by Jekyll and the Minimal Theme.
+Ⓒ 2024 Joanna Rashid. Powered by Jekyll and the Minimal Theme.
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
