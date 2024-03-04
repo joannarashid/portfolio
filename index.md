@@ -3,14 +3,6 @@
 ---
 [*Skip to Education*](#education)
 
-### Revenue Analysis: Medical Firm Revenue Dashboard
-<img src="images/rev_dashboard.png?raw=true"/>
-This project leverages raw data from a legacy SQL database. The data is visualized in a Tableau dashboard which allows the client to analyze revenue streams and make revenue forecasts with highly detailed interactive dashboards. This dashboard was delivered to the client with a connection to their CRM and patient database for continual use.
-
-[Tableau Dashboard](https://public.tableau.com/app/profile/joanna.rashid/viz/Med_Dental_Revenue_Dashboard/RevenueAnalysis)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
 ### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
 <iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
 <iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
@@ -32,6 +24,17 @@ Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)
 
 [Code](https://github.com/joannarashid/flu_sim)
+
+
+---
+
+### Revenue Analysis: Medical Firm Revenue Dashboard
+<img src="images/rev_dashboard.png?raw=true"/>
+This project leverages raw data from a legacy SQL database. The data is visualized in a Tableau dashboard which allows the client to analyze revenue streams and make revenue forecasts with highly detailed interactive dashboards. This dashboard was delivered to the client with a connection to their CRM and patient database for continual use.
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/joanna.rashid/viz/Med_Dental_Revenue_Dashboard/RevenueAnalysis)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 ---
