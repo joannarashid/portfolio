@@ -101,7 +101,7 @@ This project uses machine learning to predict employee absences from work based 
 
 ### Bachelor of Science in Economics, Cum Laude 
 #### Minor in Applied Computing for Social Sciences
-#### San José State University, 2021
+#### San José State University
 - Concentration in Econometrics
 - Economics Department Honors 
 - Coursework:
@@ -120,7 +120,6 @@ This project uses machine learning to predict employee absences from work based 
 
 ### Certificate: SQL Basic
 #### HackerRank, 2024
-<iframe src='https://www.hackerrank.com/certificates/iframe/e5d2073d3d28' width="100%" height="500">  </iframe>
 
 ### Certificate: Machine Learning for Data Science
 #### Lucas Graduate School of Business, San José State University, 2020
