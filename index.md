@@ -118,6 +118,10 @@ This project uses machine learning to predict employee absences from work based 
   - Linear Algebra
   - Other Sciences: Physics, Organic Chemistry, Human Biology and Physiology, Microbiology, Climate Science
 
+### Certificate: SQL Basic
+#### HackerRank, 2024
+<iframe src='https://www.hackerrank.com/certificates/iframe/e5d2073d3d28' width="100%" height="500">  </iframe>
+
 ### Certificate: Machine Learning for Data Science
 #### Lucas Graduate School of Business, San José State University, 2020
 
