@@ -118,7 +118,7 @@ This project uses machine learning to predict employee absences from work based 
   - Linear Algebra
   - Other Sciences: Physics, Organic Chemistry, Human Biology and Physiology, Microbiology, Climate Science
 
-### Certificate: SQL Basic
+### Certificate: ![SQL Basic](https://www.hackerrank.com/certificates/e5d2073d3d28), ![SQL Intermediate](https://www.hackerrank.com/certificates/6d7e114c6c7e)
 #### HackerRank, 2024
 
 ### Certificate: Machine Learning for Data Science
