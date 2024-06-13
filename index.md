@@ -4,7 +4,7 @@
 [*Skip to Education*](#education)
 
 
-### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidemic
+### Simulation: S-I-R, Agent-Based Stochastic Epidemic Modeling
 <img src="images/flu_sim1.png?raw=true"/>
 <img src="images/flu_sim2.png?raw=true"/>
 Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This project demonstrates why stochastic models are superior to deterministic models in simulating disease transmission. A stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
