@@ -103,7 +103,7 @@ This AI-powered application leverages the user's demographic and social profile 
   - Linear Algebra
   - Other Sciences: Physics, Organic Chemistry, Human Biology and Physiology, Microbiology, Climate Science
 
-### Certificate: [SQL Basic](https://www.hackerrank.com/certificates/e5d2073d3d28), [SQL Intermediate](https://www.hackerrank.com/certificates/6d7e114c6c7e), [Python Basic] (https://www.hackerrank.com/certificates/97afbd26c212)
+### Certificate: [SQL Basic](https://www.hackerrank.com/certificates/e5d2073d3d28), [SQL Intermediate](https://www.hackerrank.com/certificates/6d7e114c6c7e), [Python Basic](https://www.hackerrank.com/certificates/97afbd26c212)
 #### HackerRank, 2024
 
 ### Certificate: [Machine Learning for Data Science](https://badgr.com/public/assertions/i3fSuOpfTke88DcXm8Buuw)
