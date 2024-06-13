@@ -3,18 +3,6 @@
 ---
 [*Skip to Education*](#education)
 
-### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
-<iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
-<iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
-This project uses various machine learning models to identify relationships between spatial and temporal CO2 emissions and socioeconomic data. The satellite remotes sensing CO2 data used in this project required extensive feature engineering and complex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
-
-[Code](https://github.com/DanDryer/Team-Project-Practicum-6748)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-
----
-
 
 ### Simulation: S-I-R, Agent-Based, Modeling to Simulate an Epidemic
 <img src="images/flu_sim1.png?raw=true"/>
@@ -25,6 +13,16 @@ Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model 
 
 [Code](https://github.com/joannarashid/flu_sim)
 
+---
+
+### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
+<iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
+<iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
+This project uses various machine learning models to identify relationships between spatial and temporal CO2 emissions and socioeconomic data. The satellite remotes sensing CO2 data used in this project required extensive feature engineering and complex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
+
+[Code](https://github.com/DanDryer/Team-Project-Practicum-6748)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ---
 
