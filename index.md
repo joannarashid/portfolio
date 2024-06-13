@@ -4,7 +4,7 @@
 [*Skip to Education*](#education)
 
 
-### Simulation: S-I-R, Agent-Based Stochastic Epidemic Modeling
+### Agent-Based Stochastic Epidemic Simulation
 <img src="images/flu_sim1.png?raw=true"/>
 <img src="images/flu_sim2.png?raw=true"/>
 Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model a flu epidemic. This project demonstrates why stochastic models are superior to deterministic models in simulating disease transmission. A stochastic model is used to simulate the spread of a flu virus in a classroom of 21 students. The effect of infection probability, length of the infectious period, and sample size on the epidemic outcomes are all explored and visualized.
@@ -15,7 +15,7 @@ Susceptible-Infected-Recovered (S-I-R), agent-based simulation is used to model 
 
 ---
 
-### Unsupervised Machine Learning: Atmospheric CO2 and Socioeconomic Vulnerability
+### Atmospheric CO2 and Socioeconomic Vulnerability
 <iframe src="images/scatter_plot.html" width="100%" height="500">  </iframe>
 <iframe src="images/kmeans_map_by_cluster.html" width="100%" height="400">  </iframe>
 This project uses various machine learning models to identify relationships between spatial and temporal CO2 emissions and socioeconomic data. The satellite remotes sensing CO2 data used in this project required extensive feature engineering and complex spatial joins. Modeling methods include linear regression, random forest, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and K-means. Data visualization is deployed as a web-based interactive application that allows users to manipulate cluster assignments and selected data fields.
@@ -26,7 +26,7 @@ This project uses various machine learning models to identify relationships betw
 
 ---
 
-### Revenue Analysis: Medical Firm Revenue Dashboard
+### Medical Firm Revenue Tableau Dashboard
 <img src="images/rev_dashboard.png?raw=true"/>
 This project leverages raw data from a legacy SQL database. The data is visualized in a Tableau dashboard which allows the client to analyze revenue streams and make revenue forecasts with highly detailed interactive dashboards. This dashboard was delivered to the client with a connection to their CRM and patient database for continual use.
 
@@ -37,7 +37,7 @@ This project leverages raw data from a legacy SQL database. The data is visualiz
 
 ---
 
-### Data Visualization: Metrics of Human Well-Being
+### Metrics of Human Well-Being Data Visualization
 <iframe src='https://flo.uri.sh/story/1887426/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1887426/?utm_source=embed&utm_campaign=story/1887426' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -47,7 +47,7 @@ This project leverages raw data from a legacy SQL database. The data is visualiz
 ---
 
 
-### Recommender Application: Blissful Borders: A City Recommender that Optimizes User Well-Being
+### Blissful Borders: A City Recommender Application that Optimizes User Well-Being
 <img src="images/bb_app.gif?raw=true"/>
 This AI-powered application leverages the user's demographic and social profile to identify the city that maximizes well-being by meeting their socio-economic and environmental needs. Recommendations are provided in a user-friendly, map-based application that acts as a world data explorer tool. Recommendations are produced by a weighted sum optimizer that uses data from the World Happiness Index, the Women's Peace and Prosperity Index, the LGBTQ safety index, GDP, and climate, combined with a collaborative filter that improves based on user city reviews. The application is built with Flask.
 
@@ -57,19 +57,6 @@ This AI-powered application leverages the user's demographic and social profile 
 [Code](https://github.com/ereppond/CSE6242-GroupProject/tree/main/BlissfulBorders)
 
 <a href="pdf/team179poster.pdf">Project Poster</a>
-
----
-
-### Supervised Machine Learning: Predicting Employee Absences
-<img src="images/work_absence_thumbnail.png?raw=true"/>
-This project uses machine learning to predict employee absences from work based on employee demographics. An interesting finding in this data set is that 
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-[Code](https://github.com/joannarashid/Work_Absenteeism_ML_project/blob/master/ENGR121_absenteeism_project.ipynb)
-
----
 
 #### Other projects and code samples can be found on my [Github account](https://github.com/joannarashid/)
 
