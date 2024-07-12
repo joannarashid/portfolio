@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science and Analytics Portfolio
 
 ---
 [*Skip to Education*](#education)
