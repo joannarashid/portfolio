@@ -66,7 +66,7 @@ This AI-powered application leverages the user's demographic and social profile 
 
 ---
 
-### Master of Science in Analytics
+### Master of Science, Analytics
 #### Georgia Institute of Technology, 2023
 - An interdisciplinary data science and analytics program with coursework in the Colleges of Computing, Business, and Systems Engineering
 - Syntax: Python, R, SQL, Scala, JavaScript, HTML, CSS
@@ -84,7 +84,7 @@ This AI-powered application leverages the user's demographic and social profile 
   - Data Analytics for Business: (KPIs and Forecasting, Business Analytics for Finance, Marketing, Logistics, and Operations)
   - Emerging Technologies
 
-### Bachelor of Science in Economics, Cum Laude 
+### Bachelor of Science, Economics, Cum Laude 
 #### Minor in Applied Computing for Social Sciences
 #### San José State University
 - Concentration in Econometrics
