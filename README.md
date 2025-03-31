@@ -1,9 +1,9 @@
 ## Data Science Portfolio
 <a href="https://joannarashid.github.io/portfolio/">Portfolio</a>
 
-<a href="https://www.linkedin.com/in/joannarashid/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/joannapeck/">LinkedIn Profile</a>
 
-I'm a San Francisco Bay Area based data scientist. I am all about scrutinizing data in pursuit of the big picture. I have just earned a Master of Science in Analytics, an interdisciplinary data science program, at Georgia Institute of Technology. I specialize in technical data analysis and visualization, statistical modeling, and machine learning. I am skilled in utilizing programming languages such as Python, SQL, and R and have demonstrated strong problem solving skills and expertise in transforming raw data into actionable insights.
+I'm a San Francisco Bay Area based data scientist specializing in healthcare data. I am trained in statistical data analysis, predictive modeling, and applied machine learning with expertise in designing end-to-end healthcare analytics solutions.
 ___
 
 ### References
